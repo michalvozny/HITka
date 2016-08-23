@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HITka</string>
+    <string-array
+        name="food_list">
+        <item>Vajce</item>
+        <item>Maso hovadzie</item>
+        <item>Maso kuracie</item>
+        <item>Cuketa</item>
+        <item>Mrkva</item>
+        <item>Syr balkansky</item>
+        <item>Syr parenica</item>
+    </string-array>
+</resources>
