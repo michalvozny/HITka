@@ -2,12 +2,12 @@
     <string name="app_name">HITka</string>
     <string-array
         name="food_list">
-        <item>Vajce</item>
-        <item>Maso hovadzie</item>
-        <item>Maso kuracie</item>
-        <item>Cuketa</item>
-        <item>Mrkva</item>
-        <item>Syr balkansky</item>
-        <item>Syr parenica</item>
+        <item>2#Vajce</item>
+        <item>1#Maso hovadzie</item>
+        <item>2#Maso kuracie</item>
+        <item>0#Cuketa</item>
+        <item>0#Mrkva</item>
+        <item>0#Syr balkansky</item>
+        <item>1#Syr parenica</item>
     </string-array>
 </resources>
