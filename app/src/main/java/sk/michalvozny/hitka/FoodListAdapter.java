@@ -64,8 +64,16 @@ class FoodListAdapter extends BaseAdapter implements Filterable{
         name.setText(itemParts[3]);
 
         int c = Color.rgb(0, 0, 0);
-        int val = Integer.parseInt(itemParts[2]);
+        int val = -1;
+        try {
+            val = Integer.parseInt(itemParts[2]);
+        }
+        catch (NumberFormatException e){
+
+        }
         switch (val){
+            case -1: c = Color.rgb(200, 200, 200);
+                break;
             case 0: c = Color.rgb(0, 200, 0);
                 break;
             case 1: c = Color.rgb(255, 180, 0);
