@@ -1,0 +1,491 @@
+<p>Vajcia</p>
+<table>
+<tbody>
+##0#žĺtok#
+#L#2#bielok, sušený vaječný bielok, vaječný albumín#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Mliečne produkty</p>
+<table>
+<tbody>
+##0#maslo#
+#H#1#cmar, zakysanka#kvasenie kyseliny mliečnej
+#H, A?#1#jogurt prírodný#rozdielne v závislosti od produktu
+##0#syr: všetky čerstvé syry, napr. Cottage#
+##0#syr: maslový syr (syrokrém?)#
+#H, A#2#syr: čedar#
+#H, A#1#syr: feta#
+#H, A#2#syr: fontina#
+##0#syr: Geheimratskäse#
+##0#syr: gouda, mladá#
+#H, A#3#syr: dlhozrejúce a tvrdé syry (napr. ementál)#
+##0#syr: mascarpone#
+##0#syr: mozarella#
+#H, A#2#syr: raclette#
+##0#syr: ricotta#
+#H, A#2#syr: roquefort#
+#H, A#2#syr: tavený syr#
+#H, A#2#syr: druhy zo surového mlieka (nepasterizovaného)#
+#H, A#2#syrové prípravky (= miešanie s ďalšími prísadami)#závislé od prísad a čerstvosti
+#H, L?#1#mlieko bezlaktózové#obsahuje trochu histamínu, horšie tolerované ako normálne mlieko
+#L?#0#mlieko pasterizované#mlieko môže byť zle tolerované dokiaľ je črevo podráždené
+#L?#1#mlieko, surové mlieko (nepasterizované)#lepšie tolerované kvôli vyššiemu počtu baktérií, použiť len celkom čerstvé
+#L?#1#mlieko, UHT, H, Up#dlhšia trvanlivosť ako pasterizované mlieko bez chladenia event. problematické, čerstvé tolerované
+#H?, L?#1#práškové mlieko#sporné, môže byť aj tolerované
+##0#tvaroh#
+##0#smotana, čerstvá, bez prídavných látok!#niektoré zahusťujúce prípravky môžu byť zle tolerované
+#H, A#1#smotanové produkty, smotanové syry#vyšší počet baktérií ako pasterizované mlieko
+#H#1#kyslá (ksynutá) smotana#kvasenie mliečnej kyseliny! Mierne obsahuje histamín
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Mäso</p>
+<table>
+<tbody>
+##0#hydina (sliepka, morka, kačica, atď.)#
+##0#sekaná, mleté mäso, spotrebovať hneď po zhotovení#veľmi závisí od čerstvosti!!!
+#H, A#2#sekaná, mleté mäso, otvorený predaj alebo s ochrannou atmosférou#veľmi závisí od čerstvosti!!!
+#L#2#vnútornosti#
+##0#kurča#
+#H, A?, L?#3#údené mäso#
+##0#hovädzie mäso, teľacie mäso, čerstvé#
+#H, A, L?#3#surová šunka#
+#H, A, L?#3#saláma#
+#H!, L?#0#bravčové mäso, čerstvé, neošetrené#sporné, rýchlo sa kazí, h-liberátor – svrbenie?
+#H, A, L?#3#sušené mäso#
+##3#údeniny (salámy, klobásy&#8230;)#niektoré čiastočne tolerované, sú možné výnimky
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Ryby</p>
+<table>
+<tbody>
+#H, A#0#ryba vylovená alebo hlboko zmrazená#veľmi závislé od čerstvosti a druhu!!!
+#H, A#3#ryba v chladiacom pulte, na ľade#veľmi závislé od čerstvosti a druhu!!!
+##3#tuniak#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Morské plody</p>
+<table>
+<tbody>
+#L#2#kôrovce, ulitníky (mušle, ustrice, rak, krab, homár, krevety, granáty, langusty)#
+#L#2#morské plody (= bezstavcové morské živočíchy)#
+##2#mušle#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Rôzne</p>
+<table>
+<tbody>
+#H?, L?#0#želatína#sporná
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Rastlinné</p>
+<p>Nosiče škrobu</p>
+<table>
+<tbody>
+#H?#1#chlieb, pečivo#problematické: kvasnice, kysnuté cesto, pšenica
+#A?, L?#2#pohánka#tolerovaná len keď je dôkladne olúpaná?
+##0#cornflakes#pozor na slad, kyselinu listovú
+#L?#0#špaldová pšenica#tolerovaná v obmedzenom množstve
+##1#jačmeň#
+##1#obilie všeobecne#
+##0#ovos#
+##0#konopné semeno#legálne, nie psychoaktívna odroda!
+##0#proso, pšeno#
+##0#zemiaky#skladované v tme! zelené miesta sú jedovaté! event. netolerované kvôli kyseline salicylovej
+##1#kukurica z konzervy#
+##0#kukurica sušená: kukuričná krupica, múka#skladovanie v chlade a suchu a len nevyhnutne dlho
+##0#kukurica: zrniečka, klasy čerstvé, pasterizované#
+##0#maltodextrín#
+#H?, A?, L?#1#slad#
+##0#jedlý gaštan#
+##0#quinoa#
+##0#ryža#uvarená max. 12-24 hodín, skladovaná pri 4 °C
+##0#ryžové rezance#uvarená max. 12-24 hodín, skladovaná pri 4 °C
+##0#ryžové oblátky, ryžovo-kukuričné oblátky#
+##0#ryžové lupienky#pozor na slad, kyselinu listovú
+##1#raž#tolerovaný v obmedzenom množstve
+##1#ságo#
+#L#2#slnečnicové semená#
+##0#sladké zemiaky#
+#H?, L?#1#pšenica#sporná, prevažne tráviace problémy ako nadúvanie
+#A, L#2#pšeničné klíčky#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Orechy</p>
+<table>
+<tbody>
+#A, L#1#kešu#
+##2#arašidy#
+#L#1#lieskovce#
+##0#mandle#
+#A, L#3#vlašský orech#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Tuky a oleje</p>
+<table>
+<tbody>
+##0#margarín#
+##0#olej, rastlinný olej, šalátový olej (bližšie nešpecifikovaný)#
+##0#olivový olej#
+##0#repkový olej#
+##1#slnečnicový olej#
+#L?#2#olej z vlašských orechov#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Zelenina</p>
+<table>
+<tbody>
+#H,A?,L?,B?#2#baklažán, ľuľok#
+#H, L#2#avokádo#
+##0#karfiol#
+##2#fazuľa#
+##0#zelená fazuľa#
+#H, A?, L?#2#žihľava#
+##0#brokolica#
+##0#čínska kapusta#
+##1#hrach#
+#H, A?#2#uhorky kyslé (v octe), solené, korenené, zelenina v octe#
+##0#fenikel#
+##0#uhorka, šalátová uhorka#
+#L#2#strukoviny (sója, fazuľa, hrach, šošovica&#8230;)#
+##0#karotka, mrkva#
+##0#cesnak#
+##1#kaleráb#
+##0#kapustovité (okrem ružičkového kelu a kalerábu)#
+##0#bylinné stonky (vňate) pozri repu/mangold ??#
+##0#tekvica, rôzne druhy#
+#L?#1#pór, pórik#v malých množstvách väčšinou dobre tolerovaný
+##2#šošovica#
+##0#mangold, repa, vňate ??#
+##?#fazuľa mungo#
+##0#paštrnák#
+##0#feferónka, paprika (jemné = sladké odrody)#
+##0#reďkovka Radieschen#
+##0#červená repa#
+##0#reďkev (záhradná reďkovka, jemná) Rettich#
+#L?#1#ružičkový kel#
+#L#2#rukola#
+##0#šalát, listový šalát#hodnotenie platí pre listy bez zálievky
+#H#3#kyslá kapusta, kvasená#
+##0#zeler#
+##2#sója (bôby, múka)#
+##0#špargľa#
+##2#špenát#
+#H, L#2#paradajka#
+##0#cuketa#
+#L#1#cibuľa#vo väčšom množstve netolerovaná
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Kuchynské bylinky</p>
+<table>
+<tbody>
+##0#bazalka#
+##0#saturejka#
+##0#sušené kuchynské bylinky#
+##0#petržlen#
+##0#šalvia#
+##0#pažítka#vo väčšom množstve netolerovaná
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Ovocie</p>
+<table>
+<tbody>
+#A, L#2#ananás#
+##0#jablko#
+##0#marhuľa#
+#H,A?,L?,B?#2#baklažán, ľuľok#
+#H, L#2#avokádo#
+#A#2#banán#čím zelenší, tým viac tolerovaný?
+#A#1#hruška#
+##0#černica#
+##0#čierna ríbezľa, červená ríbezľa#
+##0#brusnica, klikva#
+##0#ďatle, sušené#
+#A, L#2#jahody#
+##1#figy, sušené#
+#A, L#2#grapefruit#
+#L?#2#guava#
+#L#2#šípka#
+##0#čučoriedka#
+##2#malina#
+#A, L#2#kakao, kakaový prášok, čokoláda&#8230;#
+##0#kaki, tomel#
+##0#čerešňa#sporná
+#A?, L#2#kiwi#
+##0#kokosový orech, strúhaný kokos#
+#L?#0#mango#
+##0#melóny (okrem vodného melónu)#
+##0#nektárinka#
+#A, L#3#pomaranč#
+#A, L#2#papája#
+##0#broskyňa#
+#L#1#slivka#
+##0#rebarbora#sporná, kyselina šťaveľová
+##0#hrozienka, sušené hrozno, sultánky, korintky#len bez konzervačných látok!!!
+##0#rakytník#
+#A?#0#hrozno#jadierka nejesť, nerozhrýzať!
+#L#1#vodný melón#väčšie množstvo netolerované
+#A, L#2#citrón#
+#A, L#2#citrusové plody#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Semená, jadrá</p>
+<table>
+<tbody>
+##1#sezam#môže spôsobiť hnačku
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Huby</p>
+<table>
+<tbody>
+#A#1#šampiňóny#
+##2#kvasnice, droždie#sporné, v niektorých prípadoch môžu byť tolerované, obsahujú veľa kyseliny glutámovej
+##2#smrečok#
+##2#huby rôzne druhy#
+##2#hríby#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Sladidlá</p>
+<table>
+<tbody>
+##0#javorový sirup#
+##0#karamel#
+##0#ovocný cukor, fruktóza#
+##0#med#sporný
+##0#maltóza, sladový cukor čistý#
+##2#sladový extrakt#
+##0#mliečny cukor, laktóza#
+#L?#?#palmový cukor#
+##0#stévia (lístky, sladidlo tekuté, práškové)#
+#L?#2#sladké drievko#
+##0#repný cukor, kryštálový, surový, sacharóza#napriek tomu treba používať šetrne
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Koreniny</p>
+<table>
+<tbody>
+##?#aníz#
+##2#bujón#takmer vždy s netolerovanými prísadami (glutamát, kvasnicový extrakt, mäsový extrakt, korenie, netolerovaná zelenina)
+##0#škorica#
+##0#bujónový prášok „Free from“, Coop#
+##1#kurkuma#
+##2#karí#
+##3#ocot: balzamikový#
+##0#ocot: alkoholový, liehový#pozor na prísady!
+##1#ocot: jablčný#pozor na prísady!
+##3#ocot: z červeného vína, z bieleho vína#
+##2#mäsový extrakt (kocka, bujón)#
+#H?, L#2#kvasnice, droždie, kvasnicový extrakt#tvorba histamínu, chemická premena na glutamát
+##1#ďumbier/zázvor#malé množstvo tolerované
+##1#mak#malé množstvo tolerované
+##1#muškátový orech#malé množstvo tolerované
+#L#2#horčica, horčičné semeno, prášok#
+##3#sójová omáčka#
+#H?, L?#1#vanilka, vanilkový struk, vanilkový prášok a cukor#fermentácia, event. stopy sulfitu?
+#H?, L?#1#vanilkový extrakt#z fermentovaných strukov, obsahuje alkohol
+##2#polievkové korenie (rastlinný bielkovinový hydrolyzát)#získané z rastlinných bielkovín, aróma pripomína mäsový vývar, glutamát, histamín
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Nápoje</p>
+<p>Voda</p>
+<table>
+<tbody>
+#L?#1#liečivé pramene s obsahom síry, oxidu uhličitého, fluóru, jódu#
+##0#voda z vodovodu#
+#L#1#minerálka s bublinkami#symptómy rýchlo pominú
+##0#minerálka bez bubliniek#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Alkohol</p>
+<table>
+<tbody>
+#L, B#2#alkohol čistý (etanol)#
+#H, A, L, B#3#nápoje s obsahom alkoholu#
+#H, A, L, B#2#pivo#
+#H, A, L, B#3#šampanské#
+#H, A, L, B#2#rum#
+#H?,A?,L,B#2#pálenka číra (bez farbenia)#
+#H, A, L, B#3#pálenka nie číra (bez farbenia)#
+#H, A, L, B#3#sekt#
+#H, A, L, B#3#víno#
+#A?, L, B#1#víno bez histamínu (max. 0,1 mg/l)#stále obsahuje ako iné vína alkohol, sulfit, na varenie dobre tolerované!
+#H, A, L, B#2#brandy#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Čaj</p>
+<table>
+<tbody>
+#H, A?, L?#1#žihľavový čaj#
+##0#verbena#
+#B#1#zelený čaj#
+#L?#1#bylinkové zmesi (od kašľu, alpský čaj&#8230;)#netolerované prísady zatiaľ neidentifikované
+##0#lipový kvet#
+#B#1#maté#
+##0#mätový čaj#
+##0#rooibos#pozor: pod týmto názvom sú často aj čajové zmesy s netolerovanými prísadami
+#H, B#2#čierny čaj#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Ovocné šťavy</p>
+<table>
+<tbody>
+##0#brusnicový nektár#
+##0#mangový nektár#
+#L#2#pomarančová šťava#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Zeleninové šťavy</p>
+<table>
+<tbody>
+#L#2#paradajková šťava#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Kofeínové nápoje</p>
+<table>
+<tbody>
+#L?, B#2#energetické nápoje#theobromín blokuje DAO
+##1#káva#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Náhrady mlieka</p>
+<table>
+<tbody>
+##1#ovsený nápoj#často malé množstvo histamínu lebo enzymatická fermentácia
+##1#ryžový nápoj#často malé množstvo histamínu lebo enzymatická fermentácia
+##2#sójový nápoj#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Sladké nápoje, limonády</p>
+<table>
+<tbody>
+##0#sirup z bazových kvetov#
+##2#kakaové nápoje#
+##1#limonádové nápoje#podľa obsiahnutých prísad viac alebo menej tolerované
+##2#čokoládové nápoje, horúca čokoláda, ovomaltin#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Prídavné látky</p>
+<p>Farbivá</p>
+<table>
+<tbody>
+##2#amarant / Viktoriarubín O / Red 2  &#8211; E 123#
+##2#azorubín / Carmoisín / Red 10  &#8211; E 122#
+#L#3#chinolínová žlť / Yellow 10  &#8211; E 104#
+##2#Ponceau 4R / košelinová červeň A  &#8211; E124#
+##2#kurkumín  &#8211; E 100#
+#B?#3#erytrozín  &#8211; E 127#
+##2#žlť SY / Gelborange S / Yellow 6  &#8211; E 110#
+##1#indigotín / Indigocarmine / Blue 2  &#8211; E 132#
+##2#košelina / kyselina krmínová / karmíny  &#8211; E120#
+##1#patentná modrá V  &#8211; E 131#
+##1#riboflavín-5-fosfát  &#8211; E 101a#
+##2#červeň 2G / Acid Red 1 / Azophloxin  &#8211; E 128#
+#L?#3#tartrazín / Yellow 5  &#8211; E 102#
+##0#karamel   &#8211; E 150, 150a#
+##?#karamel  &#8211; E 150b, 150c, 150d#je možné že o niečo menej tolerované ako E 150?
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Konzervanty</p>
+<table>
+<tbody>
+##2#kyselina benzoová, benzoáty  &#8211; E 210 &#8211; 213#
+##2#otthofenylfenolát sodný  &#8211; E 232#
+##2#ortofenylfenol  &#8211; E 231#
+##2#parabény (metyl-, etyl-, propyl-, benzyl-) &#8211; E 214 -219#
+##2#kyselina salicylová, salicylát#v potravinách zakázané
+##2#kyselina sorbová, sorbáty  &#8211; E 200 &#8211; 203#
+##3#sulfity, siričitany  &#8211; E 220 &#8211; 228#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Zvýrazňovače chuti</p>
+<table>
+<tbody>
+##2#kyselina glutamová, glutamáty  &#8211; E 620 &#8211; 625#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Zahusťovadlá, stabilizátory</p>
+<table>
+<tbody>
+##2#carob, kaarubín  &#8211; E 410#
+##1#karagenan  &#8211; E 407#
+##1#guma Euchema / afinát riasy Euchema  &#8211; E 407a#
+##1#guma guar  &#8211; E 412#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Kypriace prostriedky</p>
+<table>
+<tbody>
+##1#prášok do pečiva#
+##0#vínny kameň#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Okysľovacie prostriedky</p>
+<table>
+<tbody>
+##0#kyselina askorbová, vit. C  &#8211; E 300#pozitívny účinok, znižuje histamín
+##0#kyselina citrónová  &#8211; E 330#sporná, je vyrábaná z plesne
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Aromatické látky</p>
+<table>
+<tbody>
+##2#chinín (napr. Tonik)#
+##0#vanilín (syntetický), vanilkový cukor#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Vitamíny, minerály, suplementy</p>
+<table>
+<tbody>
+#L#2#kyselina listová#sporná
+#L#?#jodid draselný (kuchynská soľ, jodidovaná soľ)#podozrenie na h-liberátor
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Stimulanty</p>
+<table>
+<tbody>
+#B#2#theobromín#
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Hotové výrobky</p>
+<table>
+<tbody>
+#L#2#pelendrek#
+##0#marcipán#len bez netolerovaných prísad
+#A#2#čokoláda#
+#H, L#2#horčica#
+##2#tofu#
+</tbody>
+</table>

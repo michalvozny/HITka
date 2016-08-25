@@ -9,6 +9,16 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.8"
         android:text="val"
+        android:textSize="16sp"
+        android:id="@+id/listItemNote" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.8"
+        android:text="val"
+        android:textStyle="bold"
+        android:textSize="16sp"
         android:id="@+id/listItemValue" />
 
     <TextView
@@ -16,5 +26,6 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.2"
         android:text="foodname"
+        android:textSize="16sp"
         android:id="@+id/listItemName" />
 </LinearLayout>
